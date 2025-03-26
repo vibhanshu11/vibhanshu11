@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vibhanshu11
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Software Dev.
 - 🌱 I’m currently working on MERN Stack projects.
 - 📫 Mailto: "vibhanshusingh11@gmail.com"
 
